@@ -8,8 +8,8 @@
 	"convertWikiMarkup": false,
 	"decodeIssueDescription": true,
 	"jiraServerSettings": {
-		"url": "",
-		"user": "",
-		"password": ""
+		"url": "http://3.127.58.92:8080/secure/Dashboard.jspa",
+		"user": "naresh.kumar",
+		"password": "naresh.kumar"
 	}
 }
